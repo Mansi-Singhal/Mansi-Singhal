@@ -17,5 +17,5 @@
 <h1 align="left">📫 Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-<img align="left" alt="Mansi Email" src="https://camo.githubusercontent.com/3e680e7d312c4b913612c0b26afb7cff3d25a7bb4a65c04198366970cce0792f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f34382f3030303030302f676d61696c2d6c6f67696e2e706e67" data-canonical-src="https://img.icons8.com/dusk/48/000000/gmail-login.png" style="max-width: 100%;">
+<img alt="Mansi Email" src="https://camo.githubusercontent.com/3e680e7d312c4b913612c0b26afb7cff3d25a7bb4a65c04198366970cce0792f/68747470733a2f2f696d672e69636f6e73382e636f6d2f6475736b2f34382f3030303030302f676d61696c2d6c6f67696e2e706e67" data-canonical-src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="max-width: 100%;">
 </p>
