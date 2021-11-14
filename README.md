@@ -16,6 +16,5 @@
 
 <h1 align="left">📫 Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="0" width="00" /></a>
-<img alt="Mansi Email" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" data-canonical-src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" style="max-width: 10%;">
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
