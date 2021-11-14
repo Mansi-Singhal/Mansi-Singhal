@@ -1,7 +1,12 @@
 
 <h1 align="center">Bonjor 👋, I'm Mansi</h1>
-<h3>A learner, Who learn everyday about how to use the technology in the best way. I am Coder with smooth coding skills which are among the renowned programing languages. Self-learning Software Engineering and Full-Stack-Web-Developer through research and development. Passionate about implementing and launching innovative projects. Initiating new ideas and also in driving those ideas into the path of success – that’s my job.</h3>
+<table>
+  <tr>    
+    <h3>A learner, Who learn everyday about how to use the technology in the best way. I am Coder with smooth coding skills which are among the renowned programing languages.    Self-learning Software Engineering and Full-Stack-Web-Developer through research and development. Passionate about implementing and launching innovative projects. Initiating new ideas and also in driving those ideas into the path of success – that’s my job.</h3>
+    </tr>
+  <tr>
 <a><IMG SRC="https://i.pinimg.com/originals/03/d8/9c/03d89c15d051c4d1fd28acb47fee71f6.gif"></a>
+  </tr>
 <h1> Talking about Personal Stuffs! </h1>
 
 - 🔭 I’m currently working on a Notes taking app
