@@ -7,6 +7,7 @@
   <tr>
 <a><IMG SRC="https://i.pinimg.com/originals/03/d8/9c/03d89c15d051c4d1fd28acb47fee71f6.gif"></a>
   </tr>
+</table>
 <h1> Talking about Personal Stuffs! </h1>
 
 - 🔭 I’m currently working on a Notes taking app
